@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pirung)](https://github.com/Pirung/github-readme-stats)
+
 
 
